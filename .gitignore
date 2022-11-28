@@ -9,3 +9,8 @@ examples/pendulum/cmake_install.cmake
 examples/pendulum/Makefile
 
 .vscode/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+kuka_main
